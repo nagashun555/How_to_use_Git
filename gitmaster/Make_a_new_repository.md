@@ -1,11 +1,8 @@
+前提 : github のアカウントは 作成済み
+
 # 新しいリポジトリの作り方
 
 参照:[Github に新規 repository を追加](https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db)
-
-- 前提
-  - github のアカウントは 作成済み
-- 環境
-  - windows10
 
 ## はじめに
 
