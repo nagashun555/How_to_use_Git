@@ -4,13 +4,6 @@
 
 参照:[Github に新規 repository を追加](https://qiita.com/sodaihirai/items/caf8d39d314fa53db4db)
 
-## はじめに
-
-- [キャッシュファイル読み込み無効化](https://note.com/masato1230/n/na63ac4e7ccdd)
-- [キャッシュの削除](https://qiita.com/fuwamaki/items/3ed021163e50beab7154)
-- github アカウントを作る。
-- git のインストールする。
-
 ## 1.git init でセットアップ
 
         git init
@@ -34,3 +27,8 @@ Repository name を決めて Create repository
 ## 6.gitpush でローカルリポジトリの変更をリモートリポジトリに反映する
 
         git push origin master
+
+## 関係知識
+
+- [キャッシュファイル読み込み無効化](https://note.com/masato1230/n/na63ac4e7ccdd)
+- [キャッシュの削除](https://qiita.com/fuwamaki/items/3ed021163e50beab7154)
