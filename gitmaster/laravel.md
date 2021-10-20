@@ -263,6 +263,21 @@ app/Http/Controllers/TweetController.phpのindex()を内容を以下のように
 
 resources/views/tweet/index.phpを以下のように編集する．
 
+## 指定した 1 件のデータを取得する処理を追加
+show()関数では，ID を指定して 1 件のデータを取得したい．
+
+app/Http/Controllers/TweetController.phpのshow()を内容を以下のように編集する．
+
+ここでは，受け取った ID の値でテーブルからデータを取り出し，tweetという名前でshow.blade.phpに渡している．
+
+## 詳細表示画面の作成
+
+詳細画面のresources/views/tweet/show.blade.phpを以下のように編集する．
+
+## 動作確認
+一覧画面で各 tweet をクリックし，下記のように詳細画面が表示されれば OK．
+
+# 11.2 tweet 削除処理の実装
 
 
 
